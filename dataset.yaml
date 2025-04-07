@@ -1,0 +1,6 @@
+train: /root/data/dataset/train
+val: /root/data/dataset/val
+
+nc: 1  # Number of classes
+
+names: ["pothole"]
