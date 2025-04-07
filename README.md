@@ -11,7 +11,7 @@ A deep learning-based computer vision system for detecting potholes on roads usi
 - [Vedant](https://github.com/) - 
 - [Anoushka](https://github.com/) -
 - [Hritik](https://github.com/) -
-- [Naman](https://github.com/)
+- [Naman](https://github.com/Naman1813) - 
 
 ## 🚀 Features
 
