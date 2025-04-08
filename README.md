@@ -31,6 +31,17 @@ This dataset includes thousands of annotated images for pothole detection and is
 - ✅ Lightweight and deployment-ready
 
 ---
+## 🧰 **Modal Deployment (Serverless GPU Training + Inference)**
+This project uses Modal — a serverless cloud platform — to train and deploy YOLOv9 models in the cloud effortlessly.
+
+🚀 Why Modal?
+⚡ Fast GPU compute (NVIDIA A100 for training, T4 for inference)
+
+💾 Persistent volumes for dataset and model storage
+
+💸 Generous free tier ($5 in credits — great for experimenting)
+
+✅ No infrastructure hassle (no Docker, no Kubernetes)
 
 ## 📸 Visual Demo
 
